@@ -1,0 +1,13 @@
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\bin\Debug\resources.pri
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\bin\Debug\AppxManifest.xml
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\bin\Debug\DemoWin8Project.build.appxrecipe
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\bld\Debug\priconfig.xml.intermediate
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\bld\Debug\layout.resfiles.intermediate
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\bld\Debug\resources.resfiles.intermediate
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\bld\Debug\pri.resfiles.intermediate
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\bld\Debug\priconfig.xml
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\bld\Debug\layout.resfiles
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\bld\Debug\resources.resfiles
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\bld\Debug\pri.resfiles
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\bld\Debug\LanguageQualifiers.txt
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\bld\Debug\ProjectArchitectures.txt

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ZEESHANHANIF</Machine>
+    <WindowsUser>zeeshan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\pages\studentInfo\studentInfo.css">
+      <PackagePath>pages\studentInfo\studentInfo.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\pages\studentInfo\studentInfo.js">
+      <PackagePath>pages\studentInfo\studentInfo.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\pages\studentInfo\studentInfo.html">
+      <PackagePath>pages\studentInfo\studentInfo.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\DemoWin8Project\DemoWin8Project\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
