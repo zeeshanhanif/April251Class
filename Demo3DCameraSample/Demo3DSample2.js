@@ -11,6 +11,9 @@ var renderer = null,
     cube = null,
     animating = false;
 
+var cameraZ = 30;
+var cameraForward = true;
+
 function onLoad()
 {
 // Grab our container div
@@ -22,9 +25,9 @@ function onLoad()
 // Create a new Three.js scene
     scene = new THREE.Scene();
 // Put in a camera
-    camera = new THREE.PerspectiveCamera( 30,
+    camera = new THREE.PerspectiveCamera( 45,
         container.offsetWidth / container.offsetHeight, 1, 4000 );
-    camera.position.set( 0, 0, 3 );
+    camera.position.set( 0, 0, cameraZ );
 // Create a directional light to show off the object
     var light = new THREE.DirectionalLight( 0xffffff, 1.5);
     light.position.set(0, 0, 1);
@@ -39,7 +42,7 @@ function onLoad()
     var material = new THREE.MeshPhongMaterial({color: "blue"});
 // Create the cube geometry
     //var geometry = new THREE.CylinderGeometry(0.5,0,1.3);
-    var geometry = new THREE.CubeGeometry(1,1,0.1);
+    var geometry = new THREE.CubeGeometry(1,1,0.5);
 // And put the geometry and material together into a mesh
     cube = new THREE.Mesh(geometry, material);
 // Turn it toward the scene, or we won't see the cube shape!
@@ -54,6 +57,7 @@ function onLoad()
     run();
 }
 
+
 function run()
 {
 // Render the scene
@@ -61,7 +65,17 @@ function run()
 // Spin the cube for next frame
     if (animating)
     {
-        cube.rotation.y -= 0.01;
+        //cube.rotation.y -= 0.01;
+        if(cameraForward){
+            cameraZ-=0.10
+            cameraForward = !(cameraZ <=3)
+        }
+        else {
+            cameraZ+=0.10
+            cameraForward = (cameraZ >=30)
+        }
+        camera.position.set( 0, 0, cameraZ );
+
     }
 // Ask for another frame
     requestAnimationFrame(run);

@@ -29,19 +29,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo3DSample2.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/public/javascripts/Demo3DSample2.js">
+      <file leaf-file-name="RequestAnimationFrame.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/RequestAnimationFrame.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="33" selection-start="1633" selection-end="1633" vertical-scroll-proportion="0.03046595">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RequestAnimationFrame.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/javascripts/RequestAnimationFrame.js">
+      <file leaf-file-name="Demo3DSample2.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/Demo3DSample2.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="43" column="33" selection-start="1633" selection-end="1633" vertical-scroll-proportion="0.9444444">
               <folding />
             </state>
           </provider>
@@ -94,6 +94,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -146,7 +147,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,6 +293,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/RequestAnimationFrame.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/webglbook.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/Demo3DSample2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="33" selection-start="1633" selection-end="1633" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/stylesheets/webglbook.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -335,7 +356,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/javascripts/Demo3DSample2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="33" selection-start="1633" selection-end="1633" vertical-scroll-proportion="0.03046595">
+        <state line="43" column="33" selection-start="1633" selection-end="1633" vertical-scroll-proportion="0.9444444">
           <folding />
         </state>
       </provider>
