@@ -22,7 +22,7 @@ function onLoad()
 // Create a new Three.js scene
     scene = new THREE.Scene();
 // Put in a camera
-    camera = new THREE.PerspectiveCamera( 30,
+    camera = new THREE.PerspectiveCamera( 45,
         container.offsetWidth / container.offsetHeight, 1, 4000 );
     camera.position.set( 0, 0, 3 );
 // Create a directional light to show off the object
@@ -39,7 +39,7 @@ function onLoad()
     var material = new THREE.MeshPhongMaterial({color: "blue"});
 // Create the cube geometry
     //var geometry = new THREE.CylinderGeometry(0.5,0,1.3);
-    var geometry = new THREE.CubeGeometry(1,1,0.1);
+    var geometry = new THREE.CubeGeometry(1,1,1);
 // And put the geometry and material together into a mesh
     cube = new THREE.Mesh(geometry, material);
 // Turn it toward the scene, or we won't see the cube shape!
@@ -52,6 +52,7 @@ function onLoad()
     addMouseHandler();
 // Run our render loop
     run();
+    //renderer.render( scene, camera );
 }
 
 function run()
@@ -63,7 +64,7 @@ function run()
     {
         cube.rotation.y -= 0.01;
     }
-// Ask for another frame
+    // Ask for another frame
     requestAnimationFrame(run);
 }
 

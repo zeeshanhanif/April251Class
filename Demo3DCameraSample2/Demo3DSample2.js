@@ -15,7 +15,9 @@ var cameraZ = 30;
 var cameraX = 0;
 var cameraForward = true;
 
+function modelLoader(){
 
+}
 function onLoad()
 {
 // Grab our container div
