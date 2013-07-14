@@ -1,0 +1,13 @@
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\bin\Debug\resources.pri
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\bin\Debug\AppxManifest.xml
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\bin\Debug\DemoPhoneGap1.build.appxrecipe
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\bld\Debug\priconfig.xml.intermediate
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\bld\Debug\layout.resfiles.intermediate
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\bld\Debug\resources.resfiles.intermediate
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\bld\Debug\pri.resfiles.intermediate
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\bld\Debug\priconfig.xml
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\bld\Debug\layout.resfiles
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\bld\Debug\resources.resfiles
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\bld\Debug\pri.resfiles
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\bld\Debug\LanguageQualifiers.txt
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\bld\Debug\ProjectArchitectures.txt

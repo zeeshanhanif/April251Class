@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="f981536f-4136-4969-ac74-c3bbbd3df037" Version="1.0.0.0" Publisher="CN=zeeshanhanif" />
+  <Properties>
+    <DisplayName>DemoPhoneGap1</DisplayName>
+    <PublisherDisplayName>zeeshanhanif</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="index.html">
+      <VisualElements DisplayName="DemoPhoneGap1" Logo="images\logo.png" SmallLogo="images\smalllogo.png" Description="DemoPhoneGap1" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="images\splashscreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

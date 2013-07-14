@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ZEESHANPC</Machine>
+    <WindowsUser>zeeshanhanif</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>2268185D885A09F720E34391043CB3D80AE665225C25160DAF20632E27AFB272</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f981536f-4136-4969-ac74-c3bbbd3df037_1.0.0.0_neutral__1jtsnmcq4t95e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f981536f-4136-4969-ac74-c3bbbd3df037_1jtsnmcq4t95e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f981536f-4136-4969-ac74-c3bbbd3df037</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=zeeshanhanif</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-14T10:09:12.719</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\css\bootstrap-responsive.css">
+      <PackagePath>css\bootstrap-responsive.css</PackagePath>
+      <Modified>2013-05-17T05:21:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\css\bootstrap.css">
+      <PackagePath>css\bootstrap.css</PackagePath>
+      <Modified>2013-07-14T09:40:17.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-07-26T18:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\index.html">
+      <PackagePath>index.html</PackagePath>
+      <Modified>2013-07-14T10:19:35.971</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T18:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T18:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T18:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-07-26T18:30:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\img\glyphicons-halflings-white.png">
+      <PackagePath>img\glyphicons-halflings-white.png</PackagePath>
+      <Modified>2013-05-17T05:21:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\img\glyphicons-halflings.png">
+      <PackagePath>img\glyphicons-halflings.png</PackagePath>
+      <Modified>2013-05-17T05:21:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\js\bootstrap.js">
+      <PackagePath>js\bootstrap.js</PackagePath>
+      <Modified>2013-05-17T05:21:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\js\cordova.js">
+      <PackagePath>js\cordova.js</PackagePath>
+      <Modified>2013-06-26T12:38:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\js\d3.v3.js">
+      <PackagePath>js\d3.v3.js</PackagePath>
+      <Modified>2013-07-14T09:42:14.611</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-07-14T10:09:09.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\js\index.js">
+      <PackagePath>js\index.js</PackagePath>
+      <Modified>2013-07-14T10:19:33.874</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\js\jquery-2.0.3.js">
+      <PackagePath>js\jquery-2.0.3.js</PackagePath>
+      <Modified>2013-07-14T09:36:01.416</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\ZeeshanHanif\SSUETClasses\April251\April251Class\14_07_2013\DemoPhoneGap1\DemoPhoneGap1\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-07-14T10:09:12.645</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.8514.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.8514.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
