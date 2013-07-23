@@ -1,0 +1,13 @@
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\App10\App10\bin\Debug\resources.pri
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\App10\App10\bin\Debug\AppxManifest.xml
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\App10\App10\bin\Debug\App10.build.appxrecipe
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\App10\App10\bld\Debug\priconfig.xml.intermediate
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\App10\App10\bld\Debug\layout.resfiles.intermediate
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\App10\App10\bld\Debug\resources.resfiles.intermediate
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\App10\App10\bld\Debug\pri.resfiles.intermediate
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\App10\App10\bld\Debug\priconfig.xml
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\App10\App10\bld\Debug\layout.resfiles
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\App10\App10\bld\Debug\resources.resfiles
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\App10\App10\bld\Debug\pri.resfiles
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\App10\App10\bld\Debug\LanguageQualifiers.txt
+C:\Users\Rehan\Documents\Visual Studio 2012\Projects\App10\App10\bld\Debug\ProjectArchitectures.txt
