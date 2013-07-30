@@ -1,0 +1,13 @@
+F:\3D\251AprilClass\28_07_2013\DemoPhonegap\DemoPhonegap\bin\Debug\resources.pri
+F:\3D\251AprilClass\28_07_2013\DemoPhonegap\DemoPhonegap\bin\Debug\AppxManifest.xml
+F:\3D\251AprilClass\28_07_2013\DemoPhonegap\DemoPhonegap\bin\Debug\DemoPhonegap.build.appxrecipe
+F:\3D\251AprilClass\28_07_2013\DemoPhonegap\DemoPhonegap\bld\Debug\priconfig.xml.intermediate
+F:\3D\251AprilClass\28_07_2013\DemoPhonegap\DemoPhonegap\bld\Debug\layout.resfiles.intermediate
+F:\3D\251AprilClass\28_07_2013\DemoPhonegap\DemoPhonegap\bld\Debug\resources.resfiles.intermediate
+F:\3D\251AprilClass\28_07_2013\DemoPhonegap\DemoPhonegap\bld\Debug\pri.resfiles.intermediate
+F:\3D\251AprilClass\28_07_2013\DemoPhonegap\DemoPhonegap\bld\Debug\priconfig.xml
+F:\3D\251AprilClass\28_07_2013\DemoPhonegap\DemoPhonegap\bld\Debug\layout.resfiles
+F:\3D\251AprilClass\28_07_2013\DemoPhonegap\DemoPhonegap\bld\Debug\resources.resfiles
+F:\3D\251AprilClass\28_07_2013\DemoPhonegap\DemoPhonegap\bld\Debug\pri.resfiles
+F:\3D\251AprilClass\28_07_2013\DemoPhonegap\DemoPhonegap\bld\Debug\LanguageQualifiers.txt
+F:\3D\251AprilClass\28_07_2013\DemoPhonegap\DemoPhonegap\bld\Debug\ProjectArchitectures.txt

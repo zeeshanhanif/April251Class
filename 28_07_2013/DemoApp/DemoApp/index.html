@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>DemoApp</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+
+     <link href="/css/bootstrap.css" rel="stylesheet" />
+    <link href="/css/bootstrap-responsive.css" rel="stylesheet" />
+    <link href="/css/default.css" rel="stylesheet" />
+
+    <script src="/js/cordova.js"></script>
+    <script src="/js/jquery-2.0.2.js"></script>
+    <script src="/js/d3.v3.js"></script>
+
+    <!-- App10 references -->
+
+    <script src="/js/default.js"></script>
+
+    <script src="/js/index.js"></script>
+
+    <!-- DemoApp references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    
+</head>
+<body>
+    <p>Content goes here</p>
+    
+    Name:<input type="text" id="name" /><br />
+    <input type="button" id="submit" value="Submit" />
+
+    <img id="myimage" src="#" />
+     <script type="text/javascript">
+
+         console.log("Subscribing...");
+         document.addEventListener("deviceready", function () {
+                window.app.init();
+
+         });
+
+    </script>
+</body>
+</html>

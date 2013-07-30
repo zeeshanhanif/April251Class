@@ -1,0 +1,13 @@
+F:\3D\251AprilClass\28_07_2013\DemoApp\DemoApp\bin\Debug\resources.pri
+F:\3D\251AprilClass\28_07_2013\DemoApp\DemoApp\bin\Debug\AppxManifest.xml
+F:\3D\251AprilClass\28_07_2013\DemoApp\DemoApp\bin\Debug\DemoApp.build.appxrecipe
+F:\3D\251AprilClass\28_07_2013\DemoApp\DemoApp\bld\Debug\priconfig.xml.intermediate
+F:\3D\251AprilClass\28_07_2013\DemoApp\DemoApp\bld\Debug\layout.resfiles.intermediate
+F:\3D\251AprilClass\28_07_2013\DemoApp\DemoApp\bld\Debug\resources.resfiles.intermediate
+F:\3D\251AprilClass\28_07_2013\DemoApp\DemoApp\bld\Debug\pri.resfiles.intermediate
+F:\3D\251AprilClass\28_07_2013\DemoApp\DemoApp\bld\Debug\priconfig.xml
+F:\3D\251AprilClass\28_07_2013\DemoApp\DemoApp\bld\Debug\layout.resfiles
+F:\3D\251AprilClass\28_07_2013\DemoApp\DemoApp\bld\Debug\resources.resfiles
+F:\3D\251AprilClass\28_07_2013\DemoApp\DemoApp\bld\Debug\pri.resfiles
+F:\3D\251AprilClass\28_07_2013\DemoApp\DemoApp\bld\Debug\LanguageQualifiers.txt
+F:\3D\251AprilClass\28_07_2013\DemoApp\DemoApp\bld\Debug\ProjectArchitectures.txt
