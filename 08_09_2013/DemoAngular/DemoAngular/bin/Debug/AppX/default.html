@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html ng-app>
+<head>
+    <meta charset="utf-8" />
+    <title>DemoAngular</title>
+
+    <!-- WinJS references -->
+    <link href="//Microsoft.WinJS.1.0/css/ui-dark.css" rel="stylesheet" />
+    <script src="//Microsoft.WinJS.1.0/js/base.js"></script>
+    <script src="//Microsoft.WinJS.1.0/js/ui.js"></script>
+
+    <!-- DemoAngular references -->
+    <link href="/css/default.css" rel="stylesheet" />
+    <script src="/js/jquery-1.8.2-win8-1.0.min.js"></script>
+    <script type="text/javascript">
+        jQuery.isUnsafe = true;
+    </script>
+    <script src="/js/angular.js"></script>
+    <script src="/js/default.js"></script>
+    
+</head>
+<body>
+    <p>Content goes here</p>
+    <div ng-controller="HelloController">
+        <p>{{greetings.text}}, World</p>
+        <input type="checkbox" ng-model="youcheckit" />
+        <p>{{youcheckit}}</p>
+        <input type="button" ng-click="toggle()" value="Show/Hide" />
+        <ul ng-show="showData">
+            <li>
+                First
+            </li>
+            <li>
+                Second
+            </li>
+            <li>
+                Third
+            </li>
+        </ul>
+
+    </div>
+
+    <div ng-controller="CartController">
+        <h1>Your Order</h1>
+        <div ng-repeat='item in items'>
+            <span>{{item.title}}</span>
+            <input ng-model='item.quantity'>
+            <span>{{item.price | currency}}</span>
+            <span>{{item.price * item.quantity | currency}}</span>
+            <button ng-click="remove($index)">Remove</button>
+        </div>
+
+    </div>
+
+</body>
+</html>

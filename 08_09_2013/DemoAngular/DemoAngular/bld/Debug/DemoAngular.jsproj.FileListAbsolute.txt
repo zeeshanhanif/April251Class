@@ -1,0 +1,13 @@
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\08_09_2013\DemoAngular\DemoAngular\bin\Debug\resources.pri
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\08_09_2013\DemoAngular\DemoAngular\bin\Debug\AppxManifest.xml
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\08_09_2013\DemoAngular\DemoAngular\bin\Debug\DemoAngular.build.appxrecipe
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\08_09_2013\DemoAngular\DemoAngular\bld\Debug\priconfig.xml.intermediate
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\08_09_2013\DemoAngular\DemoAngular\bld\Debug\layout.resfiles.intermediate
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\08_09_2013\DemoAngular\DemoAngular\bld\Debug\resources.resfiles.intermediate
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\08_09_2013\DemoAngular\DemoAngular\bld\Debug\pri.resfiles.intermediate
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\08_09_2013\DemoAngular\DemoAngular\bld\Debug\priconfig.xml
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\08_09_2013\DemoAngular\DemoAngular\bld\Debug\layout.resfiles
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\08_09_2013\DemoAngular\DemoAngular\bld\Debug\resources.resfiles
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\08_09_2013\DemoAngular\DemoAngular\bld\Debug\pri.resfiles
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\08_09_2013\DemoAngular\DemoAngular\bld\Debug\LanguageQualifiers.txt
+E:\ZeeshanHanif\SSUETClasses\April251\April251Class\08_09_2013\DemoAngular\DemoAngular\bld\Debug\ProjectArchitectures.txt
